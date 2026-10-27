@@ -30,4 +30,4 @@ This chart looks at community engagement from three perspectives: students, facu
 **Sources:**
 - [National Survey of Student Engagement (NSSE) — 2024 Annual Results](https://nsse.indiana.edu/research/annual-results/2024/index.html)
 - [Higher Education Research Institute (HERI) — The American College Teacher](https://www.heri.ucla.edu/PDFs/pubs/FAC/Norms/Monographs/TheAmericanCollegeTeacher2004To2005.pdf)
-- [AmeriCorps — Volunteering and Civic Life in America](https://americorps.gov/sites/default/files/document/CEV2023_HeadlineReport_11052024_final_508.pdf)
+- [AmeriCorps & U.S. Census Bureau — Civic Engagement and Volunteering (2023 Data)](https://www.census.gov/library/stories/2024/11/civic-engagement-and-volunteerism.html)
