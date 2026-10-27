@@ -28,6 +28,6 @@ This chart looks at community engagement from three perspectives: students, facu
 **Key Finding:** Community engagement can be examined across students, faculty, and the wider public. These figures come from different studies, populations, and reporting periods, so they provide context rather than a direct comparison of participation rates.
 
 **Sources:**
-[National Survey of Student Engagement (NSSE)](https://nsse.indiana.edu/) |
-[Higher Education Research Institute (HERI)](https://heri.ucla.edu/) |
-[AmeriCorps Research](https://americorps.gov/about/our-impact/volunteering-civic-life)
+- [National Survey of Student Engagement (NSSE) — 2024 Annual Results](https://nsse.indiana.edu/research/annual-results/2024/index.html)
+- [Higher Education Research Institute (HERI) — The American College Teacher](https://www.heri.ucla.edu/PDFs/pubs/FAC/Norms/Monographs/TheAmericanCollegeTeacher2004To2005.pdf)
+- [AmeriCorps — Volunteering and Civic Life in America](https://americorps.gov/sites/default/files/document/CEV2023_HeadlineReport_11052024_final_508.pdf)
